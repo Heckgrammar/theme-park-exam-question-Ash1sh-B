@@ -20,6 +20,15 @@
             // 3: 6 people
             // Commit your changes and add screnshot evidence of your program running to the Readme
 
+            Console.Writeline("enter the number of people in the group");
+            int num = Convert.Toint32(console.readline));
+            int cost = num * 15;
+            if (num >= 6)
+            {
+                int total = total - 5
+            }
+            ENDIF
+
         }
     }
 }
